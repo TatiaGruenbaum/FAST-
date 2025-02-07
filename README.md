@@ -1,4 +1,4 @@
-Project Summary
+<b>Project Summary</b><br><br>
 The FAST KA210-SCH Project (2025-2026) aims to develop and implement an innovative
 teaching approach to introduce the Holocaust within the context of visual Holocaust
 narratives in English Language Teaching to support Global Citizenship Education. The
@@ -17,8 +17,8 @@ engaging for English language learners aged 10-14 with a message of hope accompa
 by culturally sensitive lesson plans and activities. The expected results include improved
 teaching skills due to targeted training; enhanced engagement, understanding and
 developed English language skills of both teachers and learners; wide dissemination of
-the resources within educational communities.<br>
-Project Team:<br>
+the resources within educational communities.<br><br>
+<b>Project Team:</b><br>
 Dr Tatia Gruenbaum & Prof Dr Carmen Becker (TUBS)<br>
 Federica Ceriani (ISTORETO)<br>
 Davide Martini (ICBUSCA)<br>
