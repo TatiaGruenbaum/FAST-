@@ -20,6 +20,6 @@ developed English language skills of both teachers and learners; wide disseminat
 the resources within educational communities.<br>
 Project Team:<br>
 Dr Tatia Gruenbaum & Prof Dr Carmen Becker (TUBS)<br>
-Federica Ceriani (ISTORETO)
-Davide Martini (ICBUSCA)
+Federica Ceriani (ISTORETO)<br>
+Davide Martini (ICBUSCA)<br>
 Silvana Rampone (SmartEdu4All)
